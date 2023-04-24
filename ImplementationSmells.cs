@@ -6,5 +6,15 @@
         {
             Console.WriteLine(param1 + param2);
         }
+
+        public void TestDuplicatedCode()
+        {
+            Console.WriteLine("Duplicated Code");
+        }
+
+        public void TesteDuplicatedCpode()
+        {
+            Console.WriteLine("Duplicated Code");
+        }
     }
 }
